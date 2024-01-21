@@ -1,0 +1,15 @@
+.odd-num {
+    background-color: hsl(0,70%,75%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.font-size {
+    font-size: 24px;
+}
+#num-two {
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+#num-four {
+    background-color: hsl(120,100%,70%);
+    font-weight: bold;
+}
